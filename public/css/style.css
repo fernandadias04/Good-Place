@@ -1,0 +1,19 @@
+body{
+    background-image: url(/img/defocused-complex-map-with-pinpoint.jpg);
+    background-size: cover;
+
+}
+
+h2{
+    font-size: 3.4em;
+    margin: 10px;
+    color: white;
+    text-shadow: 3px 3px 2px black;
+    text-align: center;
+}
+
+input{
+    margin: 5px;
+}
+
+
